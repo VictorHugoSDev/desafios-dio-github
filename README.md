@@ -5,4 +5,6 @@ Repositório criado para os Desafios de Projeto do Bootcamp da DIO com patrocín
 
 
 ## Links Úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax) <br>
+[Site para pesquisa HTML](https://www.w3schools.com/html/default.asp) <br>
+[Site para pesquisa CSS](https://www.w3schools.com/css/default.asp)
