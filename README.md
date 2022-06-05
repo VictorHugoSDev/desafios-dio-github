@@ -5,6 +5,8 @@ Repositório criado para os Desafios de Projeto do Bootcamp da DIO com patrocín
 
 
 ## Links Úteis
+[Site da DIO](https://www.dio.me/)
+[Site da TQI](https://www.tqi.com.br/)
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax) <br>
 [Site para pesquisa HTML](https://www.w3schools.com/html/default.asp) <br>
 [Site para pesquisa CSS](https://www.w3schools.com/css/default.asp)
