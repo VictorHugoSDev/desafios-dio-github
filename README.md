@@ -1,9 +1,9 @@
 # Desafios de Projeto da DIO
 Repositório criado para os Desafios de Projeto do Bootcamp da DIO com patrocínio da TQI.
 
-##### 1. Desafio - HTML e CSS: Desenvolvendo um menu de hamburguer e morphing menu com CSS Transitions.
+#### 1. Desafio - HTML e CSS: Desenvolvendo um menu de hamburguer e morphing menu com CSS Transitions.
 * [Transitions 1](https://victorhugosdev.github.io/Transitions-1/)
-##### 2. Desafio -
+#### 2. Desafio -
 
 ## Links Úteis
 [Site da DIO](https://www.dio.me/) <br>
