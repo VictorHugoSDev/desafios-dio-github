@@ -7,7 +7,8 @@ Repositório criado para os Desafios de Projeto do Bootcamp da DIO com patrocín
 * [Keyframes 1 - landing page](https://victorhugosdev.github.io/Keyframes-1/)
 * [Keyframes 2 - balão em movimento](https://victorhugosdev.github.io/Keyframes-2/)
 * [Projeto Final - Transitions e Keyframes](https://victorhugosdev.github.io/projeto-final-HTML-CSS/)
-#### 2. Desafio -
+#### 2. Desafio - Desenvolendo um jogo da memória
+* [Jogo da memória](
 
 ## Links Úteis
 [Site da DIO](https://www.dio.me/) <br>
